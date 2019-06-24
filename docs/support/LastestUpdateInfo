@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.0.0.8</version>
+    <url>nodownload</url>
+    <changelog>체인지로그 링크</changelog>
+    <mandatory>true</mandatory>
+</item>
