@@ -2,6 +2,7 @@ site_name: DentalLab Manager Help
 
 pages: 
   - 홈: index.md
+  - 다운로드: download.md
   - 설치: install.md
   - USB인증오류: usb_auth.md
-  - 다운로드: download.md
+  - 간략설명서 : brief.md

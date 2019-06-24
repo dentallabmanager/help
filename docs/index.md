@@ -5,10 +5,3 @@
 # 최신 프로그램 다운로드
 * [다운로드 페이지 이동](/download)
 
-
-## 메뉴 도움말
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
