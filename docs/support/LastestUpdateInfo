@@ -3,5 +3,5 @@
     <version>1.0.0.8</version>
     <url>nodownload</url>
     <changelog>https://raw.githubusercontent.com/dentallabmanager/help/master/docs/support/ChangeLog/V1090</changelog>
-    <mandatory>true</mandatory>
+    <mandatory>false</mandatory>
 </item>
