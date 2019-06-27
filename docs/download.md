@@ -1,8 +1,10 @@
 # Download 정보
 
-## 1.1.0 버전 - [다운로드](support/update/download/DentalLab_install_1.1.0.zip)
+## 1.1.0.2 버전 - [다운로드](support/update/download/DentalLab_install_1.1.0.2.zip)
 
-* 업로드 시간 : 2019.06.26 12:00
+* 최근 업데이트 시간 : 2019.06.27 17:50
 ```yml
-온라인 업데이트 기능 추가 버전
+2019.06.27 거래명세서 기공금액 -> 기공단가 변경
+           초기화면 변경
+2019.06.26 온라인 업데이트 기능 추가 버전
 ```
