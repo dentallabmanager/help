@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.1.0.8</version>
+    <url>https://github.com/ravibpatel/AutoUpdater.NET/search?q=block&type=Issues</url>
+    <changelog>https://dentallabmanager.github.io/help/support/update/change_log/v1090.txt</changelog>
+    <mandatory mode="2">true</mandatory>
+</item>
