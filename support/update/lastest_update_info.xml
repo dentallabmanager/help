@@ -3,5 +3,5 @@
     <version>1.2.0.1</version>
     <url>https://dentallabmanager.github.io/help/support/update/download/DentalLab_update_1.2.0.1.zip</url>
     <changelog>https://dentallabmanager.github.io/help/support/update/change_log/v1.2.0.1.txt</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
