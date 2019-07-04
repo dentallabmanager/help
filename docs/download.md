@@ -1,9 +1,11 @@
 # Download 정보
 
-## 1.1.0.3 버전 - [설치버전 다운로드](support/update/download/DentalLab_install_1.1.0.3.zip)
+## 1.2.0.1 버전 - [설치버전 다운로드](support/update/download/DentalLab_install_1.2.0.1.zip)
 
 * 최근 업데이트 시간 : 2019.06.27 17:50
 ```yml
+
+1.2.0.1 버전 (2019.07.04)
 
 1.1.0.3 버전 (2019.06.28)
 [백업/복원] USB->PC 복원오류 수정
