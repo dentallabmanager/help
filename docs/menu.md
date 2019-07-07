@@ -1,17 +1,31 @@
-# Welcome to MkDocs
+# **메뉴 리스트**
+상세한 내용은 해당 메뉴를 이용해 주세요
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+## 등록
+* [접수대장](접수대장)
+* [골드입고](골드입고)
 
-## Commands
+## 현황/출고
+* [거래명세서](거래명세서)
+* [월별매출 기공품](월별매출_기공품)
+* [월별매출 거래처](월별매출_거래처)
+* [골드사용현황](골드사용현황)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## 기초데이터
+* [거래처](거래처)
+* [기공품목](기공품목)
+* [골드타입](골드타입)
+* [기공소정보](기공소정보)
+* [작업파트](작업파트)
+* [작업자](작업자)
+* [쉐이드](쉐이드)
 
-## Project layout
+## 프로그램관리
+* [비밀번호변경](비밀번호_변경)
+* [백업및복원](백업_복원)
+* [옵션](옵션)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 도움말
+* [도움말](도움말)
+* [게시판](게시판)
+* [About](ABOUT)

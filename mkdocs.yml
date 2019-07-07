@@ -1,11 +1,10 @@
-site_name: 기공소운영시스템
+site_name: <span style="color:orange">DentalLab Manage</span>
 
 nav: 
   - 소개: index.md
   - 다운로드: download.md
   - 설치: install.md
-  - USB인증오류: usb_auth.md
   - 간략설명서 : brief.md
   - 메뉴도움말 : menu.md
-  - 협회홈페이지 : https://kdtech.or.kr
+  - (경영자회)게시판 : https://repre.kdtech.or.kr/board/board.asp?table=BD_rental_manager&wpage=8&tpage=1
   
