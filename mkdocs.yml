@@ -1,10 +1,10 @@
-site_name: <span style="color:orange">DentalLab Manage</span>
+site_name: DentalLab Manager
 
 nav: 
   - 소개: index.md
   - 다운로드: download.md
-  - 설치: install.md
-  - 간략설명서 : brief.md
+  - 설치메뉴얼: install.md
   - 메뉴도움말 : menu.md
+  - 간략설명서 : brief.md
   - (경영자회)게시판 : https://repre.kdtech.or.kr/board/board.asp?table=BD_rental_manager&wpage=8&tpage=1
   
