@@ -1,5 +1,8 @@
 site_name: DentalLab Manager
-
+site_author: 전국치과기공소경영자회
+google_analytics: ['UA-143286387-1', 'dentallabmanager.github.io'] 
+copyright: ©2019 전국치과기공소경영자회 (https://repre.kdtech.or.kr)
+# theme: readthedocs
 nav: 
   - 소개: index.md
   - 다운로드: download.md
