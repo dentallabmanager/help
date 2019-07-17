@@ -6,6 +6,7 @@ copyright: ©2019 전국치과기공소경영자회 (https://repre.kdtech.or.kr)
 nav: 
   - 소개: index.md
   - 다운로드: download.md
+  - 원격지원: remote.md
   - 설치메뉴얼: install.md
   - 메뉴도움말 : menu.md
   - 간략설명서 : brief.md

@@ -31,8 +31,11 @@
 
 ```
 
+## .NET Framework 4.6.1 오프라인 재설치
+* [다운로드](http://go.microsoft.com/fwlink/?LinkId=671728)
 
-## 윈도우7 설치시 "시스템구성요소 오류시"
+## 윈도우7 설치시 "시스템 구성요소 오류시"
 * 윈도우7 SP1 (ServicePack1)은 필수로 업데이트 하셔야 합니다.
-    [참고 사이트](https://support.microsoft.com/ko-kr/help/15090/windows-7-install-service-pack-1-sp1)
-* 다음 프로그램을 먼저 설치하시고 DentalLap을 설치하세요 [다운로드](support/update/download/NDP461-KB3102436-x86-x64-AllOS-ENU.zip)
+  [참고 사이트](https://support.microsoft.com/ko-kr/help/15090/windows-7-install-service-pack-1-sp1)
+* 다음 프로그램을 먼저 설치하시고 DentalLap을 설치하세요
+  [다운로드](support/update/download/NDP461-KB3102436-x86-x64-AllOS-ENU.zip)
