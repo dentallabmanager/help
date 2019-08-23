@@ -1,6 +1,6 @@
 # 원격지원
 
-## [ >>> 원격프로그램 다운로드](support/update/download/AeroAdmin.exe)
+## [ >>> 원격프로그램 다운로드](https://www.aeroadmin.com/kr/)
 
 1. 위에 링크된 프로그램을 다운로드 하신 후 실행하세요
 2. 아래의 설명이미지(1)와 같이 `9자리 숫자`를 전화로 말씀해 주세요.
