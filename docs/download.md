@@ -1,6 +1,6 @@
 # Download 정보
 
-## 1.2.0.8 버전 - [설치버전 다운로드](support/update/download/DentalLab_install_1.2.0.9.zip)
+## 1.2.0.9 버전 - [설치버전 다운로드](support/update/download/DentalLab_install_1.2.0.9.zip)
 
 * 최근 업데이트 시간 : 2019.07.26 12:00
 ```yml
