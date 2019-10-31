@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.2.0.9</version>
-    <url>https://dentallabmanager.github.io/help/support/update/download/DentalLab_update_1.2.0.9.zip</url>
-    <changelog>https://dentallabmanager.github.io/help/support/update/change_log/v1.2.0.9.txt</changelog>
+    <version>1.2.0.10</version>
+    <url>https://dentallabmanager.github.io/help/support/update/download/DentalLab_update_1.2.0.10.zip</url>
+    <changelog>https://dentallabmanager.github.io/help/support/update/change_log/v1.2.0.10.txt</changelog>
     <mandatory>false</mandatory>
 </item>
